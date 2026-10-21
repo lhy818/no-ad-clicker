@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">无广告连点器</string>
+    <string name="service_name">无广告连点器</string>
+    <string name="service_desc">仅用于在你设定的位置执行点击和滑动手势。本服务不读取任何屏幕内容，应用没有联网权限。</string>
+</resources>
